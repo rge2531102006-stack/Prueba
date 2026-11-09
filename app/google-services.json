@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "725783049884",
+    "project_id": "esme-1b985",
+    "storage_bucket": "esme-1b985.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725783049884:android:3469ec0de7d0fe332d9f59",
+        "android_client_info": {
+          "package_name": "com.example.unidad2prac3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6UewqEfRf3xkzowJpL5SxGnKO7t9eoqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
